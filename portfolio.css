@@ -168,3 +168,6 @@ h1, h2, ul, p{
     border-color: rgb(253, 253, 253);
     border-style: inset;
 }
+.mc, .val, .lol {
+    text-decoration: none;
+}
