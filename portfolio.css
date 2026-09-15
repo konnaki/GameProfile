@@ -3,8 +3,8 @@
     min-height: 97vh;
 
     display: flex;
-    justify-content: center; /* Left ↔ Right */
-    align-items: center;     /* Top ↕ Bottom */
+    justify-content: center; 
+    align-items: center;     
 
     background: linear-gradient(135deg, #080808, #270438);
 }
@@ -14,8 +14,8 @@
     min-height: 97vh;
 
     display: flex;
-    justify-content: center; /* Left ↔ Right */
-    align-items: center;     /* Top ↕ Bottom */
+    justify-content: center; 
+    align-items: center;     
 
     background: linear-gradient(135deg, #bbb2b2, #a51e8e);
 }
@@ -25,9 +25,8 @@
     min-height: 97vh;
 
     display: flex;
-    justify-content: center; /* Left ↔ Right */
-    align-items: center;     /* Top ↕ Bottom */
-
+    justify-content: center; 
+    align-items: center;     
     background: linear-gradient(135deg, #050505, #2b1b1b);
 }
 
@@ -36,8 +35,8 @@
     min-height: 97vh;
 
     display: flex;
-    justify-content: center; /* Left ↔ Right */
-    align-items: center;     /* Top ↕ Bottom */
+    justify-content: center;
+    align-items: center;     
 
     background: linear-gradient(180deg, #013A46, #5EFB6E)
 }
